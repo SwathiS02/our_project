@@ -1,8 +1,8 @@
 def division(num1,num2):
 
-    result = num1 / num2
-    return result 
+    return num1 / num2
 
 
+   
 
 
